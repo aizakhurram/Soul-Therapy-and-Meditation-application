@@ -1,5 +1,5 @@
 # Soul-Therapy-and-Meditation-application
-his therapy and meditation app is designed to be super easy to use and make you feel calm.
+This therapy and meditation app is designed to be super easy to use and make you feel calm.
 We picked special colors that science says help people relax, just like looking at a calming sunset.
 These colors will make the app feel peaceful and quiet, perfect for talking to a therapist or meditating.
 
